@@ -7,6 +7,7 @@ to help you build strong foundations in both JavaScript and problem-solving skil
 Before diving into DSA, ensure a solid understanding of JavaScript fundamentals.
 
 ### Topics to Cover:
+
 > Syntax and Basics:
 
 > Variables (var, let, const)
@@ -43,16 +44,11 @@ Before diving into DSA, ensure a solid understanding of JavaScript fundamentals.
 
 > Promises and Async/Await
 
-
-```
-
-
-
-
-2. Understand Big O Notation
+## 2. Understand Big O Notation
 Big O notation is essential to evaluate the time and space complexity of algorithms.
 
-Topics to Cover:
+### Topics to Cover:
+
 What is Big O?
 Common Complexities:
 O(1) - Constant Time
@@ -60,6 +56,14 @@ O(log n) - Logarithmic Time
 O(n) - Linear Time
 O(n²) - Quadratic Time
 Space Complexity Analysis
+
+
+```
+
+
+
+
+
 3. Learn Core Data Structures
 Familiarize yourself with the key data structures and their operations in JavaScript.
 
