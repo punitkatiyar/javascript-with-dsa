@@ -1,31 +1,54 @@
-# javascript-with-dsa
-Javascript wih dsa roadmap for developers
+# JavaScript with DSA (Data Structures and Algorithms) Roadmap
 
-```
-Here’s a JavaScript with DSA (Data Structures and Algorithms) Roadmap to help you build strong foundations in both JavaScript and problem-solving skills:
+to help you build strong foundations in both JavaScript and problem-solving skills:
 
-1. Learn the Basics of JavaScript
+## 1. Learn the Basics of JavaScript
+
 Before diving into DSA, ensure a solid understanding of JavaScript fundamentals.
 
-Topics to Cover:
-Syntax and Basics:
-Variables (var, let, const)
-Data Types (Strings, Numbers, Booleans, etc.)
-Operators (Arithmetic, Logical, Comparison)
-Conditional Statements (if-else, switch)
-Loops (for, while, do-while)
-Functions:
-Function Declaration and Expression
-Arrow Functions
-Callback Functions
-Objects and Arrays:
-Object Properties and Methods
-Array Methods (map, filter, reduce, forEach)
-ES6+ Features:
-Template Literals
-Destructuring
-Spread and Rest Operators
-Promises and Async/Await
+### Topics to Cover:
+> Syntax and Basics:
+
+> Variables (var, let, const)
+
+> Data Types (Strings, Numbers, Booleans, etc.)
+
+> Operators (Arithmetic, Logical, Comparison)
+
+> Conditional Statements (if-else, switch)
+
+> Loops (for, while, do-while)
+
+> Functions:
+
+> Function Declaration and Expression
+
+> Arrow Functions
+
+> Callback Functions
+
+> Objects and Arrays:
+
+> Object Properties and Methods
+
+> Array Methods (map, filter, reduce, forEach)
+
+> ES6+ Features:
+
+> Template Literals
+
+> Destructuring
+
+> Spread and Rest Operators
+
+> Promises and Async/Await
+
+
+```
+
+
+
+
 2. Understand Big O Notation
 Big O notation is essential to evaluate the time and space complexity of algorithms.
 
