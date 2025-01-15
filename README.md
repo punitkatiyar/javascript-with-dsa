@@ -114,6 +114,39 @@ Tree Traversals (Inorder, Preorder, Postorder)
 
 - Common Problems: Fibonacci, Knapsack, Longest Common Subsequence
 
+## Master Important Algorithms
+
+Learn the fundamental algorithms used in solving problems efficiently.
+
+### Algorithm Categories:
+
+#### Sorting Algorithms:
+- Bubble Sort, Merge Sort, Quick Sort
+
+#### Searching Algorithms:
+- Binary Search, Depth-First Search (DFS), Breadth-First Search (BFS)
+
+#### Recursion:
+- Factorials, Fibonacci Series
+
+#### Backtracking:
+- N-Queens, Sudoku Solver
+
+#### Greedy Algorithms:
+- Activity Selection, Huffman Coding
+
+#### Divide and Conquer:
+- Merge Sort, Quick Sort
+
+#### Dynamic Programming:
+- Coin Change, Longest Increasing Subsequence
+
+#### Graph Algorithms:
+- Dijkstra’s, Prim’s, Kruskal’s
+
+#### Sliding Window & Two Pointers:
+- Maximum Sum Subarray, Longest Substring Without Repeating Characters
+
 
 ```
 
@@ -122,28 +155,7 @@ Tree Traversals (Inorder, Preorder, Postorder)
 
 
 
-4. Master Important Algorithms
-Learn the fundamental algorithms used in solving problems efficiently.
 
-Algorithm Categories:
-Sorting Algorithms:
-Bubble Sort, Merge Sort, Quick Sort
-Searching Algorithms:
-Binary Search, Depth-First Search (DFS), Breadth-First Search (BFS)
-Recursion:
-Factorials, Fibonacci Series
-Backtracking:
-N-Queens, Sudoku Solver
-Greedy Algorithms:
-Activity Selection, Huffman Coding
-Divide and Conquer:
-Merge Sort, Quick Sort
-Dynamic Programming:
-Coin Change, Longest Increasing Subsequence
-Graph Algorithms:
-Dijkstra’s, Prim’s, Kruskal’s
-Sliding Window & Two Pointers:
-Maximum Sum Subarray, Longest Substring Without Repeating Characters
 5. Practice Problem-Solving
 Start solving problems on platforms like LeetCode, HackerRank, Codewars, or GeeksforGeeks.
 
