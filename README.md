@@ -49,13 +49,70 @@ Big O notation is essential to evaluate the time and space complexity of algorit
 
 ### Topics to Cover:
 
-What is Big O?
-Common Complexities:
-O(1) - Constant Time
-O(log n) - Logarithmic Time
-O(n) - Linear Time
-O(n²) - Quadratic Time
-Space Complexity Analysis
+- What is Big O?
+- Common Complexities:
+- O(1) - Constant Time
+- O(log n) - Logarithmic Time
+- O(n) - Linear Time
+- O(n²) - Quadratic Time
+- Space Complexity Analysis
+
+## 3. Learn Core Data Structures
+
+Familiarize yourself with the key data structures and their operations in JavaScript.
+
+### Data Structures to Learn:
+
+#### Arrays
+
+- Basics (Insertion, Deletion, Traversal)
+- Sorting (Bubble, Selection, Merge, Quick Sort)
+- Searching (Linear Search, Binary Search)
+- Two-pointer Techniques
+- Strings
+- Substrings, Palindromes
+- String Manipulation (Reversal, Anagrams, etc.)
+
+#### Stacks and Queues
+
+- Implement using arrays or linked lists
+- Applications: Balanced Parentheses, Min Stack
+
+#### Linked Lists
+
+- Singly and Doubly Linked Lists
+- Operations: Insertion, Deletion, Reversal
+
+#### Hashing
+
+- Hash Maps (Map in JavaScript)
+- Hash Tables
+- Applications: Frequency Counter Pattern
+
+#### Trees
+
+Binary Trees
+Binary Search Trees
+Tree Traversals (Inorder, Preorder, Postorder)
+
+#### Graphs
+
+- Representation (Adjacency List, Matrix)
+- BFS and DFS Traversals
+- Applications: Shortest Path, Cycle Detection
+
+#### Heaps
+
+- Min-Heap, Max-Heap
+- Priority Queues
+- Tries (Prefix Trees)
+
+- Word Search, Auto-complete Applications
+- Dynamic Programming (DP)
+
+#### Memoization and Tabulation
+
+- Common Problems: Fibonacci, Knapsack, Longest Common Subsequence
 
 
 ```
@@ -64,54 +121,7 @@ Space Complexity Analysis
 
 
 
-3. Learn Core Data Structures
-Familiarize yourself with the key data structures and their operations in JavaScript.
 
-Data Structures to Learn:
-Arrays
-
-Basics (Insertion, Deletion, Traversal)
-Sorting (Bubble, Selection, Merge, Quick Sort)
-Searching (Linear Search, Binary Search)
-Two-pointer Techniques
-Strings
-
-Substrings, Palindromes
-String Manipulation (Reversal, Anagrams, etc.)
-Stacks and Queues
-
-Implement using arrays or linked lists
-Applications: Balanced Parentheses, Min Stack
-Linked Lists
-
-Singly and Doubly Linked Lists
-Operations: Insertion, Deletion, Reversal
-Hashing
-
-Hash Maps (Map in JavaScript)
-Hash Tables
-Applications: Frequency Counter Pattern
-Trees
-
-Binary Trees
-Binary Search Trees
-Tree Traversals (Inorder, Preorder, Postorder)
-Graphs
-
-Representation (Adjacency List, Matrix)
-BFS and DFS Traversals
-Applications: Shortest Path, Cycle Detection
-Heaps
-
-Min-Heap, Max-Heap
-Priority Queues
-Tries (Prefix Trees)
-
-Word Search, Auto-complete Applications
-Dynamic Programming (DP)
-
-Memoization and Tabulation
-Common Problems: Fibonacci, Knapsack, Longest Common Subsequence
 4. Master Important Algorithms
 Learn the fundamental algorithms used in solving problems efficiently.
 
